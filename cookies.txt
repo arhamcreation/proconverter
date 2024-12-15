@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+en4.onlinevideoconverter.pro	TRUE	/	FALSE	1999999999	worker-exp	100
+en4.onlinevideoconverter.pro	TRUE	/	FALSE	1999999999	converter-exp	55
+en4.onlinevideoconverter.pro	TRUE	/	FALSE	1999999999	ovc_session	eyJpdiI6InlsT3hBcHdDYllqVHl0TmMxTXhHMEE9PSIsInZhbHVlIjoiV0JCMjlzb216ZzVoNGJPSyt4SjhaRW54L0UyQStxUHBGR25YNE1XNE5MK1BiNm1WN0ZlNGxjeU14dHJxNHh5ZDl6dk00cnR0dkV6SWlSdFp1MWt5Z2ZKVC9MakJ1cUVhbE9DTVdvUHZtN2t5OWJjRzA4S04rWjkrTVJuZVhJTHgiLCJtYWMiOiJkZTdiMzcyZTRmZWE3YWFmNjc5YjM1Y2VmNTJhNzA0NjM0N2Q0NTc3MjUwYTM5ODI4ZWRhYTJhZDE5NjBkMDYzIiwidGFnIjoiIn0%3D
+.yandex.ru	TRUE	/	FALSE	1999999999	_yasc	dAfv4lcZY1y/WJJ2kpVqLw7niLBtY7JMj/RjA6447PpDrRbbf0U+4FBUOXh24WDBbGqB
+.yandex.ru	TRUE	/	FALSE	1999999999	i	rt8ityUcEp1rK++iLa8SUVqq5/xWka81GT1/gQnmrVzm1YpqfRiH+SmGrtR414YVH5g3LByKl//saGeeSS6sDW5AgDU=
+.yandex.ru	TRUE	/	FALSE	1999999999	yandexuid	8124035821734239285
+.yandex.ru	TRUE	/	FALSE	1999999999	yashr	6720179261734239285
+
